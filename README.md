@@ -1,7 +1,9 @@
 # A Network That Trains At Zero Init
 Here is a network that still trains with zero initilization.
 
-Two weeks ago I had a job interview with ByteDance where I was asked about whether a zero initlized network can train? My answer was Yes and I fails the interview. Maybe I didn't make myself clear. 
+Two weeks ago I had a job interview with ByteDance where I was asked whether a zero initlized network can train. My answer was Yes and I fails the interview. 
+
+Maybe I didn't make myself clear. 
 
 To better illustrate my answer, I write this notebook to prove that a network can be trained when being zero initialized with proper supervision. 
 
