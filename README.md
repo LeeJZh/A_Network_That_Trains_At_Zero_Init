@@ -9,4 +9,4 @@ To better illustrate my answer, I write this notebook to prove that a network ca
 
 The commom belief of zero initialized network cannot be trained relies on the assumption that shallow layers can only recive supervision from deep layers while deep layers can only revice information from shallow layers. Therefore when zero initialized, shallow layers recives zero or constant gradients while deep layers revices constant information.
 
-However, a network can be designed to break such assumption and still performs better than random guess.
+However, a network can be designed to break such assumption and still performs better than random guess. See [https://github.com/LeeJZh/A_Network_That_Trains_At_Zero_Init/blob/master/network_trains_at_zero_init.ipynb] this notebook for details. 
